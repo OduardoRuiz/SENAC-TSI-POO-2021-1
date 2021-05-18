@@ -71,7 +71,6 @@ class Frete
 
     public function calcular()
     {
-        //Lógica com os métodos definidos na interface
     }
 }
 
@@ -123,7 +122,7 @@ class SpcBrasil implements OrgaoNegativador
 
     public function enviarRemessaInclusao()
     {
-        //Lóg
+        //Lógica
     }
 }
 
@@ -132,7 +131,7 @@ class BoaVista implements OrgaoNegativador
 
     public function enviarRemessaInclusao()
     {
-        //Lógi
+        //Lógica
     }
 }
 
